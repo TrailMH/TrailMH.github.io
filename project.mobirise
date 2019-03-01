@@ -485,7 +485,7 @@
         },
         {
           "_params": {
-            "HTMLCode": "<div class=\"card\"> <div class=\"icon\"><img src=\"https://pbs.twimg.com/profile_images/808180587605331969/u-CULTwl_400x400.jpg\" id=\"favicon\"></div><div class=\"header\">\n  <div class=\"image\"> <img src=\"https://pbs.twimg.com/media/C2bx8KGWQAEORsE.jpg\" alt=\"\" /> </div>\n \n  <h2>trail.minehut,gg</h2>\n  </div>\n  <div id=\"rest\">Loading ...</div>\n</div>",
+            "HTMLCode": "<div class=\"card\"> <div class=\"icon\"><img src=\"https://pbs.twimg.com/profile_images/808180587605331969/u-CULTwl_400x400.jpg\" id=\"favicon\"></div><div class=\"header\">\n  <div class=\"image\"> <img src=\"https://pbs.twimg.com/media/C2bx8KGWQAEORsE.jpg\" alt=\"\" /> </div>\n \n  <h2>trail.minehut.gg</h2>\n  </div>\n  <div id=\"rest\">Loading ...</div>\n</div>",
             "hideOnPublish": false,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -498,7 +498,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<div class=\"card\"> <div class=\"icon\"><img src=\"https://pbs.twimg.com/profile_images/808180587605331969/u-CULTwl_400x400.jpg\" id=\"favicon\"></div><div class=\"header\">\n  <div class=\"image\"> <img src=\"https://pbs.twimg.com/media/C2bx8KGWQAEORsE.jpg\" alt=\"\" /> </div>\n \n  <h2>trail.minehut,gg</h2>\n  </div>\n  <div id=\"rest\">Loading ...</div>\n</div>",
+          "HTMLCode": "<div class=\"card\"> <div class=\"icon\"><img src=\"https://pbs.twimg.com/profile_images/808180587605331969/u-CULTwl_400x400.jpg\" id=\"favicon\"></div><div class=\"header\">\n  <div class=\"image\"> <img src=\"https://pbs.twimg.com/media/C2bx8KGWQAEORsE.jpg\" alt=\"\" /> </div>\n \n  <h2>trail.minehut.gg</h2>\n  </div>\n  <div id=\"rest\">Loading ...</div>\n</div>",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
