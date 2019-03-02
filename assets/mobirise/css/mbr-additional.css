@@ -2269,8 +2269,11 @@ body {
 .cid-rjz8xjgtj2 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/unknown-1920x1001.png");
 }
 .cid-rjz8xjgtj2 P {
   color: #767676;
+}
+.cid-rjz8xjgtj2 H1 {
+  color: #efefef;
 }
