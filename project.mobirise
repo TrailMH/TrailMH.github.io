@@ -1072,6 +1072,9 @@
             },
             "H1": {
               "color": "#efefef"
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "color": "#c1c1c1"
             }
           },
           "_name": "header16",
