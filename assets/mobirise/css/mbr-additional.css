@@ -1787,6 +1787,14 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/unknown-1920x1001.png");
 }
+.cid-rjy2cHdXlA {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rjy2cHdXlA .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rjxZ5CCI5h {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1847,4 +1855,9 @@ body {
 }
 .cid-rjxZ5CCI5h .mbr-text B {
   color: #767676;
+}
+.cid-rjy2nsa2hk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
