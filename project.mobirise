@@ -1081,7 +1081,7 @@
           "_params": {
             "HTMLCode": "<embed src=\"https://trail.forums.gg/\" style=\"width:2000px; height: 1000px;\">",
             "hideOnPublish": false,
-            "paddingTop": 2,
+            "paddingTop": "0",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
